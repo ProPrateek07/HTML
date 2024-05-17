@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+h1 {
+    color: rgb(0, 255, 55);
+    border: 1px solid rgb(255, 239, 16);
+    padding: 70px;
+    margin: 20px;
+}
+
+p {
+    color: rgb(147, 38, 248);
+    font-family: courier;
+    border: 5px solid powderblue;
+    padding: 10px;  /*property for space inside the border*/
+    margin: 50px;   /*property for space outside the border*/
+}
+
+#my_id {
+    color: purple;
+}
+
+p.my_class {
+    color: pink;
+}
